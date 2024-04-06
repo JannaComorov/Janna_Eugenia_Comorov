@@ -1,3 +1,5 @@
+package homework_nr_3;
+
 public class homework_nr_3 {
     public static void main(String[] args) {
         int month = 3;
